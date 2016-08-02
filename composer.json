@@ -1,5 +1,5 @@
 {
-    "name": "avikarsha/yii2-tagsinput",
+    "name": "skeeks/yii2-tagsinput",
     "description": "The yii2-tagsinput is a Yii 2 wrapper for [bootstrap-tagsinput](https://github.com/timschlechter/bootstrap-tagsinput) with [typeahead.js](https://twitter.github.io/typeahead.js/)",
     "type": "yii2-extension",
     "keywords": [
@@ -18,10 +18,10 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0",
-        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
         "bower-asset/typeahead.js": "0.10.* | ~0.11.0",
-        "bower-asset/bootstrap-tagsinput": "~0.8"
+        "bower-asset/bootstrap-tagsinput": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"
