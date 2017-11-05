@@ -10,7 +10,8 @@ class TagsinputAsset extends \yii\web\AssetBundle
     public $sourcePath = '@vendor/skeeks/yii2-tagsinput/src/bootstrap-tagsinput-0.8.0/dist';
 
     public $css = [
-        'bootstrap-tagsinput.css',
+        'bootstrap-tagsinput.min.css',
+        'bootstrap-tagsinput-typeahead.min.css',
     ];
 
     public $js = [
