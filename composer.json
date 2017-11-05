@@ -1,5 +1,5 @@
 {
-    "name": "skeeks/yii2-tagsinput",
+    "name": "isack999/yii2-tagsinput",
     "description": "The yii2-tagsinput is a Yii 2 wrapper for [bootstrap-tagsinput](https://github.com/timschlechter/bootstrap-tagsinput) with [typeahead.js](https://twitter.github.io/typeahead.js/)",
     "type": "yii2-extension",
     "keywords": [
