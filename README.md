@@ -24,7 +24,7 @@ On your view file.
 ```php
 
 <?php
-use isack999\tagsinput\TagsinputWidget;
+use avikarsha\tagsinput\TagsinputWidget;
 ?>
 
 <?= $form->field($model, 'tags')->widget(TagsinputWidget::classname(), [
