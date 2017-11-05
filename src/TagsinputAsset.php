@@ -7,7 +7,7 @@ namespace avikarsha\tagsinput;
  */
 class TagsinputAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@vendor/skeeks/yii2-tagsinput/src/bootstrap-tagsinput-0.8.0/dist';
+    public $sourcePath = '@vendor/isack999/yii2-tagsinput/src/bootstrap-tagsinput-0.8.0/dist';
 
     public $css = [
         'bootstrap-tagsinput.min.css',
