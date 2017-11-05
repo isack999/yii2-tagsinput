@@ -5,13 +5,13 @@
 Via Composer
 
 ```bash
-$ composer require avikarsha/yii2-tagsinput
+$ composer require isack999/yii2-tagsinput
 ```
 
 or add
 
 ```
-"avikarsha/yii2-tagsinput": "*"
+"isack999/yii2-tagsinput": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -24,7 +24,7 @@ On your view file.
 ```php
 
 <?php
-use avikarsha\tagsinput\TagsinputWidget;
+use isack999\tagsinput\TagsinputWidget;
 ?>
 
 <?= $form->field($model, 'tags')->widget(TagsinputWidget::classname(), [
