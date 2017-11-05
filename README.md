@@ -39,6 +39,9 @@ use avikarsha\tagsinput\TagsinputWidget;
         "itemValue" => 'name',
         "itemText" => 'name',
     ],
+    'typeaheadOptions' => [
+        'highlight' => true,
+    ],
    'dataset' => [
         [
             'remote' => [
